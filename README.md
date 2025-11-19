@@ -1,1 +1,1 @@
-# Intenship-Practice-Program
+Internship Practice Program 
